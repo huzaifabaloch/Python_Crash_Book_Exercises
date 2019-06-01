@@ -1,0 +1,39 @@
+Arguments and Parameters
+--------------------------------
+
+In the preceding greet_user() function, we defined greet_user() to require a
+value for the variable username. Once we called the function and gave it the
+information (a person’s name), it printed the right greeting.
+The variable username in the definition of greet_user() is an example of a
+parameter, a piece of information the function needs to do its job. The value
+'jesse' in greet_user('jesse') is an example of an argument. An argument
+is a piece of information that is passed from a function call to a function.
+When we call the function, we place the value we want the function to work
+with in parentheses. In this case the argument 'jesse' was passed to the
+function greet_user(), and the value was stored in the parameter username.
+
+
+
+TYPES
+---------
+
+1. positional arguments
+------------------------
+-> When you call a function, Python must match each argument in the function
+call with a parameter in the function definition. The simplest way to
+do this is based on the order of the arguments provided. Values matched
+up this way are called positional arguments.
+
+
+2. keyword arguments
+-----------------------
+-> A keyword argument is a name-value pair that you pass to a function
+-> Keyword arguments free you from having to worry about correctly ordering your arguments
+ in the function call, and they clarify the role of each value in the function call.
+
+
+3. default values
+-------------------
+-> When writing a function, you can define a default value for each parameter.
+If an argument for a parameter is provided in the function call, Python uses
+the argument value. If not, it uses the parameter’s default value.

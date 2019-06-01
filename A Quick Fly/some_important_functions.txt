@@ -1,0 +1,12 @@
+
+
+
+1. range(start, end - 1, skip)     	-> generate a series of numbers
+	
+2. list(range(start, end - 1, skip))	-> list of numbers in a variable list
+
+3. min(list)				-> finds minimum value in list
+
+4. max(list)				-> finds maximum value in list
+
+5. sum(list)				-> add all values in list

@@ -1,0 +1,12 @@
+-------------- List Methods -------------------
+
+1. append 		-> add element at the end of list
+2. insert 		-> add element at any position
+3. del list[index]	-> remove item at specific index
+4. pop			-> remove the last item off list and store in variable
+5. remove		-> remove item by value
+6. sort			-> sort in any order (alphabetically..) permanent 
+b. sort(reverse=True)	-> in reverse order
+7. sorted()		-> sort by temporily
+8. reverse		-> reverse the order of items permanent
+9. len			-> number of items in list

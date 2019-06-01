@@ -1,0 +1,10 @@
+------------------- Strings Methods in Python -------------------
+
+
+1. title 	-> 	capitalize word first letter
+2. lower 	-> 	convert the text in lower case
+3. upper 	-> 	convert the text in upper case
+4. rstrip 	-> 	remove whitespace from right
+5. lstrip 	-> 	remove whitespace from right
+6. strip  	->	remove whitespace from right and left
+7. capitalize	->	capitalize the first word in the text	

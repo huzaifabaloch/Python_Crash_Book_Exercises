@@ -1,0 +1,12 @@
+-------- Dictionary Methods -----------------
+
+1. items()		-> loop through key and value pairs
+
+2. keys()		-> loop through only keys
+
+3. values()		-> loop through only values
+
+4. sorted()		-> sort the dictionary temporily while looping
+
+5. set()		-> A set is similar to a list except that each item in the set must be unique
+
