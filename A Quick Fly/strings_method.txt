@@ -8,3 +8,13 @@
 5. lstrip 	-> 	remove whitespace from right
 6. strip  	->	remove whitespace from right and left
 7. capitalize	->	capitalize the first word in the text	
+8. isdigit      ->      returns true if a string contains numbers - '3823'
+9. replace      ->      replace the old character with new one
+replace(self, old, new, count=-1)
+ |      Return a copy with all occurrences of substring old replaced by new.
+ |      
+ |        count
+ |          Maximum number of occurrences to replace.
+ |          -1 (the default value) means replace all occurrences.
+ |      
+ |       
